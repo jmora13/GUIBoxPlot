@@ -1,0 +1,26 @@
+clear
+setms 100
+setbg 47
+plot 10 10 *
+move 10 10 15 15 1 0
+move 10 10 15 15 4 0
+move 10 10 15 15 8 0
+move 10 10 15 19 18 0
+move 10 10 15 19 29 0
+setfg 34
+setfg 35
+setfg 36
+setfg 37
+setfg 38
+setbg 48
+setbg 43 
+setbg 44 
+setbg 45
+setbg 46 
+move 10 10 15 15 8 0
+move 10 10 15 15 5 0
+move 10 10 15 15 7 0
+move 10 10 15 15 9 0
+move 10 10 15 15 9 0
+pause 
+
